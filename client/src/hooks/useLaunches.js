@@ -19,9 +19,7 @@ function useLaunches(onSuccessSound, onAbortSound, onFailureSound) {
     async (e) => {
       e.preventDefault();
       setPendingLaunch(true);
-      console.log(e);
       const data = new FormData(e.target);
-      console.log(data);
       const launchDate = new Date(data.get("launch-day"));
       const mission = data.get("mission-name");
       const rocket = data.get("rocket-name");
