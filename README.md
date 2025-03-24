@@ -28,7 +28,9 @@ To view the application run:
 
 <code>npm install</code>
 <br>
+<br>
 Then run:
+
 <code>npm run deploy</code>
   
 ## Future Improvements
