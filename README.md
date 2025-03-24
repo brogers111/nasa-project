@@ -27,8 +27,8 @@ This web application uses the SpaceX API to display historic launches and allows
 To view the application run:
 
 <code>npm install</code>
-<br>
-<br>
+
+
 Then run:
 
 <code>npm run deploy</code>
