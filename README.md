@@ -6,6 +6,10 @@ This web application uses the SpaceX API to display historic launches and allows
 
 ## Project Design
 
+<img width="1051" alt="Screenshot 2025-03-23 at 8 12 47 PM" src="https://github.com/user-attachments/assets/36551373-abbe-4e74-9c32-bb6535b5b60e" />
+<img width="988" alt="Screenshot 2025-03-23 at 8 13 00 PM" src="https://github.com/user-attachments/assets/3e349379-90b7-44af-8d86-874e438e9b58" />
+
+
 ## Tech Stack
 
 - React
