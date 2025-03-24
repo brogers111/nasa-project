@@ -2,7 +2,7 @@
 
 ## Description
 
-This web application uses the SpaceX API to display historic launches and allows users to plan their own launches based on launch date, mission name, rocket type, and destination (if any). The potential destinations are being pulled from a CSV export of Kepler Exoplanets from the NASA expolanet archive and populated in a MongoDB database using the NodeJS CSV-Parser module. Axios is used to pull SpaceX launch data and populate within the database.
+This web application uses the SpaceX API to display historic launches and allows users to plan their own launches based on launch date, mission name, rocket type, and destination (if any). The potential destination exoplanets are being pulled from a CSV export of Kepler Exoplanets from the NASA expolanet archive and populated in a MongoDB database using the NodeJS CSV-Parser module. Axios is used to pull SpaceX launch data and populate within the database. The frontend is build with React and the backend is Express and NodeJS.
 
 ## Project Design
 
