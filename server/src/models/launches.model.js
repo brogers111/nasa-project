@@ -49,7 +49,6 @@ async function populateLaunches() {
       success: launchDoc["success"],
       customers,
     };
-    console.log(launch.customers);
 
     await saveLaunch(launch);
   }
