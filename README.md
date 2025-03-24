@@ -24,8 +24,11 @@ This web application uses the SpaceX API to display historic launches and allows
 
 ## Deployment
 
-To view this final project click the [link here.](https://news-explorer.root.sx/)
+To view the application run:
 
+<code>npm install</code>
+<code>npm run deploy</code>
+  
 ## Future Improvements
 
 - Add new launch form inputs such as rockets and payload
