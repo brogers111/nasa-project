@@ -24,14 +24,7 @@ This web application uses the SpaceX API to display historic launches and allows
 
 ## Deployment
 
-To view the application run:
-
-<code>npm install</code>
-
-
-Then run:
-
-<code>npm run deploy</code>
+To view the application click the <a href="http://18.116.74.45:8000/launch">link here</a>
   
 ## Future Improvements
 
