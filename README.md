@@ -18,9 +18,8 @@ This web application uses the SpaceX API to display historic launches and allows
 - PM2
 - Axios
 - MongoDB
-- Mongoose
-- Morgan
-- Arwes
+- Docker
+- AWS - EC2
 
 ## Deployment
 
